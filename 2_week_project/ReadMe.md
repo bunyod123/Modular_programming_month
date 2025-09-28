@@ -1,7 +1,8 @@
-        Bu model Amerikani San-Fransisko shatatidagi zilzilalarni qayd etgan data set bolib
-        bu data orqali zilzila kuchini aniqlovchi multi class classification modelini yaratamiz.
+        #Bu model Amerikani San-Fransisko shatatidagi zilzilalarni qayd etgan data set bolib
+        bu data orqali zilzila kuchini aniqlovchi multi class classification modelini yaratamiz.#
 
-                   datasetda foydalanilgan sozlar
+                   #datasetda foydalanilgan sozlar#
+                
 
 # - Latitude (Kenglik): Yer yuzidagi nuqtaning ekvatordan shimol yoki janubga bo‘lgan masofasi.
 
